@@ -12,6 +12,7 @@ int main()
 	std::cout << i;
 
 	int j = 20;
+	int k = 40;
     return 0;
 }
 

@@ -7,6 +7,9 @@
 int main()
 {
 	std::cout << "To jest test GIT";
+	int i;
+	std::cin >> i;
+	std::cout << i;
     return 0;
 }
 

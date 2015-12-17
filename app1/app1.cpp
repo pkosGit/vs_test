@@ -13,6 +13,8 @@ int main()
 
 	int j = 20;
 	int k = 40;
+
+	int z = 120;
     return 0;
 }
 

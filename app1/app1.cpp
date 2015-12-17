@@ -10,6 +10,8 @@ int main()
 	int i;
 	std::cin >> i;
 	std::cout << i;
+
+	int j = 10;
     return 0;
 }
 
